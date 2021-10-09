@@ -11,7 +11,7 @@
       List
     </nuxt-link>&nbsp;|
     <nuxt-link
-      to="/create">
+      to="event/create">
       Create
     </nuxt-link>
     </nav>
